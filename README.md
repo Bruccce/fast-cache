@@ -6,6 +6,7 @@
 
 ## 安装下载
 - 下载地址：https://github.com/Bruccce/fast-cache/releases
+- `npm i fast-cache-bru`
 
 ## 快速使用
 简单接入的文档
